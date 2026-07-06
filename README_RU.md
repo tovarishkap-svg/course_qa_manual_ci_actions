@@ -7,7 +7,6 @@
 
 ---
 
-
 #### 2️⃣ Сделайте форк репозитория 📂  
 - Перейдите по ссылке: [course_qa_manual_ci_actions](https://github.com/danilfg/course_qa_manual_ci_actions).  
 - Нажмите кнопку **Fork** в правом верхнем углу, чтобы создать копию проекта в вашем GitHub-аккаунте.
